@@ -1,6 +1,6 @@
 # Todo
 
-You can create todos in Foam.
+## 03/21 - 0327
 
 - [x] This is an example of a todo list item that's complete
 - [ ] This one is not completed yet
