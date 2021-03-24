@@ -25,10 +25,11 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-  "vscodeMarkdownNotes.newNoteDirectory": "docs/",
+  "vscodeMarkdownNotes.newNoteDirectory": "notes/",
   "files.exclude":{
   
     "_layouts":true,
     "assets":true,
+    "docs":true,
   }
 }

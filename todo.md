@@ -2,7 +2,8 @@
 
 ## 03/21 - 0327
 
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
+- [x] Take an overview of *Density Function of Stochastic Volatility Models through Ito-Taylor Expansions*.
+- [x] Ito-Taylor expansion.
+- [ ] Knowledge of Markov Chain.
+  - [ ] continuous time markov chains
+  - [ ] MCMC
